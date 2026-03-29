@@ -19,6 +19,7 @@ Step 5: Plot the magnitude spectrum with x-label and y-label with suitable title
 Step 6: Terminate the program.
 
 ## PROGRAM: 
+```
 clc; % clear screen
  clear all; % clear screen
  close all; % close all figure windows
@@ -38,6 +39,7 @@ w=0:0.01:pi;
 h=freqz(hn,1,w);
 plot(w/pi,abs(h),'blue');
 title('High Pass FIR filter using Hamming Window')
+```
 
 ## OUTPUT:
 <img width="697" height="620" alt="Screenshot 2026-03-18 125555" src="https://github.com/user-attachments/assets/dadf56d3-87ed-45d2-ba56-84682dd7fa81" />
