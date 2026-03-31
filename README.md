@@ -45,3 +45,5 @@ title('High Pass FIR filter using Hamming Window')
 <img width="697" height="620" alt="Screenshot 2026-03-18 125555" src="https://github.com/user-attachments/assets/dadf56d3-87ed-45d2-ba56-84682dd7fa81" />
 
 ## RESULT:
+<img width="1396" height="710" alt="image" src="https://github.com/user-attachments/assets/2c6cc55c-6010-4a3b-922f-ae2557ca1612" />
+
